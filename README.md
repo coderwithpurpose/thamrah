@@ -1,5 +1,5 @@
 
-Machine learning files of famouse implementations. 
+Machine learning files of famouse techniques. 
 
 Only BOXCOX implenemtation have been done in R since its extremly simpler in R. 
 
